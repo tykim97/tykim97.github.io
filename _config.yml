@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -290,3 +291,8 @@ defaults:
       comments: # true
       share: true
       related: true
+=======
+theme: jekyll-theme-minimal
+title: KimTY's homepage
+description: Bookmark this to keep an eye on my project updates!
+>>>>>>> 42fef4b2d7d5382c8c3563999bccb8d1a55130b4
